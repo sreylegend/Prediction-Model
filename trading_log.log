@@ -1,0 +1,3 @@
+2024-08-16 22:48:31,060 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2024-08-16 22:48:31,060 - INFO - Added job "automated_trading" to job store "default"
+2024-08-16 22:48:31,060 - INFO - Scheduler started
